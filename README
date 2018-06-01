@@ -1,0 +1,14 @@
+The Investor project provides an easy to use API to implement and evaluate automatic stock trading strategies. It is implemented in java and therefore can be used in any environment which builds on the JVM.
+
+This tutorial demonstrates the following functionality:
+
+- Simple access to stock data
+- Declarative formulation of trading strategies
+- Evaluation of trading strategies
+- Optimization of trading strategies
+- Support of portfolio of multiple stocks / trading strategies
+- Forecasting
+
+At the end it should be possible to easily formulate and evaluate stock strategy and to evaluate the impact of changes on assumptions.
+
+Please install <a href="http://beakerx.com/"> BeakerX </a> to run the code…

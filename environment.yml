@@ -1,0 +1,6 @@
+name: Investor-Blogs
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - beakerx

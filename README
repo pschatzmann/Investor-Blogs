@@ -12,6 +12,3 @@ This tutorial demonstrates the following functionality:
 At the end it should be possible to easily formulate and evaluate stock strategies and to evaluate the impact of changes on assumptions.
 
 Please install http://beakerx.com to run the code or you can run it with binder https://mybinder.org/v2/gh/pschatzmann/Investor-Blogs/master
-
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pschatzmann/Investor-Blogs/master)
-.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/pschatzmann/Investor-Blogs/master
